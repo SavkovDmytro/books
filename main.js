@@ -1,3 +1,3 @@
-function doTheBarrelRoll(foo){
-    foo = `foo is ${foo}`;
+function doTheBarrelRoll(bar){
+    bar = `foo is ${bar}`;
 }
